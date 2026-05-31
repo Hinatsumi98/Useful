@@ -9,3 +9,7 @@
  7. Install [Spotify](https://download.scdn.co/SpotifySetup.exe)
  8. Install [AMD Drivers](https://www.amd.com/en/support/download/drivers.html)
  9. To be added.
+
+### Arch Linux Installs.
+
+```sudo pacman -S git curl nano make && git clone https://aur.archlinux.org/yay-bin.git && cd yay-bin && makepkg -si```
