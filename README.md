@@ -13,4 +13,5 @@
 ### Arch Linux Installs.
 
 ```sh
-sudo pacman -S git curl nano make && git clone https://aur.archlinux.org/yay-bin.git && cd yay-bin && makepkg -si```
+sudo pacman -S git curl nano make && git clone https://aur.archlinux.org/yay-bin.git && cd yay-bin && makepkg -si
+```
