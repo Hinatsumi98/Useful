@@ -16,5 +16,8 @@
 sudo pacman -S git curl nano make && git clone https://aur.archlinux.org/yay-bin.git && cd yay-bin && makepkg -si
 ```
 ```sh
-yay -S steam discord spotify
+yay -S steam discord spotify-adblock
+```
+```sh
+git clone https://github.com/Darkkal44/qylock.git && cd qylock && sudo chmod +x sddm.sh && ./sddm.sh
 ```
